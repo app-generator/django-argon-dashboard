@@ -1,13 +1,12 @@
 # -*- encoding: utf-8 -*-
 """
-License: Commercial
+License: MIT
 Copyright (c) 2019 - present AppSeed.us
 """
 
 import os
 from decouple import config
 from unipath import Path
-import django_heroku
 import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -20,7 +19,7 @@ SECRET_KEY = config('SECRET_KEY', default='S#perS3crEt_1122')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', default=False)
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'django-dashboard-black-pro.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', config('SERVER', default='127.0.0.1')]
 
 # Application definition
 
@@ -126,10 +125,3 @@ STATICFILES_DIRS = (
 )
 #############################################################
 #############################################################
-
-# Activate Django-Heroku.
-django_heroku.settings(locals())
-ssl_require = os.environ['DATABASE_SSL'] != 'False'
-locals()['DATABASES']['default'] = dj_database_url.config(
-    conn_max_age=django_heroku.MAX_CONN_AGE, ssl_require=ssl_require
-)
