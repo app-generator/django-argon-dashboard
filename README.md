@@ -71,7 +71,7 @@ $
 $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv env
 $ # .\env\Scripts\activate
-$ 
+$
 $ # Install modules
 $ # SQLIte version
 $ pip3 install -r requirements.txt
