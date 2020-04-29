@@ -65,11 +65,11 @@ $ git clone https://github.com/app-generator/django-dashboard-argon.git
 $ cd django-dashboard-argon
 $
 $ # Virtualenv modules installation (Unix based systems)
-$ virtualenv --no-site-packages env
+$ virtualenv env
 $ source env/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv --no-site-packages env
+$ # virtualenv env
 $ # .\env\Scripts\activate
 $ 
 $ # Install modules
@@ -88,6 +88,8 @@ $ # python manage.py runserver 0.0.0.0:<your_port>
 $
 $ # Access the web app in browser: http://127.0.0.1:8000/
 ```
+
+> Note: To use the app, please access the registration page and **create a new user**. After authentication, the app will unlock the private pages.
 
 <br />
 
