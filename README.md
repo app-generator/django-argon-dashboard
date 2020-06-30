@@ -1,6 +1,6 @@
 # [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
+> **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
 
 - UI Kit: **[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** (Free version) provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
@@ -32,7 +32,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Django Dashboard Argon - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-screen.png)
+![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
 
 <br />
 
