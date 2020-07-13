@@ -1,4 +1,4 @@
-# [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)
+# [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
 
@@ -13,11 +13,11 @@
 
 > Links
 
-- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
-- [Django Dashboard Argon](https://django-dashboard-argon.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Argon](https://docs.appseed.us/admin-dashboards/django-dashboard-argon/) - Documentation
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
+- [Django Dashboard Argon Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-argon/) - Documentation
+- More [Django Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -156,11 +156,11 @@ Start fast your next Django project by using functional admin dashboards enhance
 
 A dashboard is a set of pages that are easy to read and offer information to the user in real-time regarding his business. A dashboard usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides - *definition provided by [Creative-Tim - Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/?ref=appseed)*.
 
-### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)
+### [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200)
 
 **[Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?ref=appseed)** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and it is open source, and free - provided by **Creative-Tim**.
 
 <br />
 
 ---
-**[Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**[Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
