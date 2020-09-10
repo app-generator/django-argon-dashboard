@@ -89,26 +89,26 @@
         </form>
         <!-- Navigation -->
         <ul class="navbar-nav">
-          <li class="nav-item  class=" active" ">
-          <a class=" nav-link active " href="/"> <i class="ni ni-tv-2 text-primary"></i> Dashboard
+          <li class="nav-item {% if 'index' in segment %} active {% endif %}">
+          <a class=" nav-link" href="/"> <i class="ni ni-tv-2 text-primary"></i> Dashboard
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if 'icons' in segment %} active {% endif %}">
             <a class="nav-link " href="/icons.html">
               <i class="ni ni-planet text-blue"></i> Icons
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if 'maps' in segment %} active {% endif %}">
             <a class="nav-link " href="/maps.html">
               <i class="ni ni-pin-3 text-orange"></i> Maps
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if 'profile' in segment %} active {% endif %}">
             <a class="nav-link " href="/profile.html">
               <i class="ni ni-single-02 text-yellow"></i> User profile
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if 'tables' in segment %} active {% endif %}">
             <a class="nav-link " href="/tables.html">
               <i class="ni ni-bullet-list-67 text-info"></i> Tables
             </a>
@@ -128,16 +128,9 @@
         <ul class="navbar-nav mb-md-3">
 
           <li class="nav-item">
-            <a class="nav-link" target="_blank" 
-               href="https://github.com/app-generator/django-dashboard-argon">
-              <i class="ni ni-ui-04"></i> Source Code
-            </a>
-          </li>
-
-          <li class="nav-item">
             <a class="nav-link" target="_blank"
-               href="https://appseed.us/admin-dashboards/django">
-              <i class="ni ni-spaceship"></i> More Django Apps
+               href="https://appseed.us/admin-dashboards/django-dashboard-argon-pro">
+              <i class="ni ni-spaceship"></i>PRO Version
             </a>
           </li>
 
