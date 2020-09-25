@@ -7,17 +7,13 @@
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **MIT License**
-- Free support via **Github** 
-- Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+- Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [Django Dashboard - Argon Design](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
-- [Django Dashboard Argon Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
-- [Django Dashboard Argon Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-argon/) - Documentation
-- More [Django Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
-- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
+- [Django Dashboard Argon](https://appseed.us/admin-dashboards/django-dashboard-argon) - Product page
+- [Django Dashboard Argon - Demo](https://django-dashboard-argon.appseed.us/login/) - LIVE App
+- [Django Dashboard Argon - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-argon/) - Documentation
 
 <br />
 
