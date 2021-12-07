@@ -29,8 +29,8 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django)** g
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/django-dashboard-argon.git
-$ cd django-dashboard-argon
+$ git clone https://github.com/app-generator/django-argon-dashboard.git
+$ cd django-argon-dashboard
 ```
 
 > Start the app in Docker
@@ -53,8 +53,8 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-dashboard-argon.git
-$ cd django-dashboard-argon
+$ git clone https://github.com/app-generator/django-argon-dashboard.git
+$ cd django-argon-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
