@@ -1,0 +1,8 @@
+django
+gunicorn
+python-dotenv
+whitenoise
+django-admin-argon-dashboard==1.0.12
+
+# psycopg2-binary
+# mysqlclient
