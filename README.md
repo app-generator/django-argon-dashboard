@@ -4,7 +4,7 @@ Open-source **Django** project crafted on top of **[Argon Dashboard](https://app
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Material Material` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 - 👉 [Django Argon Dashboard](https://appseed.us/product/argon-dashboard/django/) - `Product page`
-- 👉 [Django Argon Dashboard](https://django-material-dash2.onrender.com) - `LIVE Demo`
+- 👉 [Django Argon Dashboard](https://django-argon-dash2.onrender.com) - `LIVE Demo`
 - 🛒 **[Django Argon Dashboard PRO](https://appseed.us/product/argon-dashboard2-pro/django/)** - `Premium Version`
 
 <br />
