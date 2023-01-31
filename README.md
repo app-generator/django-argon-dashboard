@@ -19,7 +19,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Argon Dashboard 2](https://user-images.githubusercontent.com/51070104/211161884-56ef77d2-1e5a-4269-a148-7ac4a5482e0c.png)
+![Argon Dashboard 2 - Free Starter.](https://user-images.githubusercontent.com/51070104/215804889-94eba681-8262-41a3-8e57-7d5b12dcc209.png)
 
 <br />
 
