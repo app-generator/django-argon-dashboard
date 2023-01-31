@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.8] 2023-01-31
+### Changes
+
+- Bump UI: [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard) `v1.0.15`
+- DOCS Update (readme). New sections:
+  - `How to customize the theme`
+  - Render deployment
+- Configure the project to use `home/templates`
+- Added `custom_footer` sample
+
 ## [1.0.7] 2023-01-10
 ### Changes
 
