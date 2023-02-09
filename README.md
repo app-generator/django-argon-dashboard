@@ -13,7 +13,7 @@ The product is designed to deliver the best possible user experience with highly
 
 - ✅ `Up-to-date Dependencies`
 - ✅ Theme: [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard), designed by [Creative-Tim](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200) 
-  - can be used in any Django project (new or legacy)
+  - `can be used in any Django project` (new or legacy)
 - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
