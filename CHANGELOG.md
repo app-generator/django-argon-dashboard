@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.10] 2024-01-04
+### Changes
+
+- Update Settings:
+  - local static
+  - local templates
+
 ## [1.0.9] 2023-10-24
 ### Changes
 
