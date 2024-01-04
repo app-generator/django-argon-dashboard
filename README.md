@@ -12,7 +12,7 @@ The product is designed to deliver the best possible user experience with highly
 
 > `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-| Free Version                          | [PRO Version](https://appseed.us/product/argon-dashboard2-pro/django/)    | 🚀 Custom - $1999 (plus VAT)         |  
+| Free Version                          | [PRO Version](https://appseed.us/product/argon-dashboard2-pro/django/)    | 🚀 Custom - $3999 (plus VAT)         |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | ✓ **Django 4.1.12**                   | **Everything in Free**, plus:                                        | **Everything in PRO**, plus:       |
 | ✓ Best Practices                      | ✅ **Premium Bootstrap Design**                                      | ✅ **1mo Custom Development**     | 
@@ -22,7 +22,7 @@ The product is designed to deliver the best possible user experience with highly
 | ✓ `Free Support                       | -                                                                     | ✅ Documentation                  |
 | -                                     | -                                                                     | ✅ **30 days Delivery Warranty**  |
 | ------------------------------------  | ------------------------------------                                  | ------------------------------------|
-| ✓ [LIVE Demo](https://django-argon-dash2.onrender.com/)  | 🚀 [LIVE Demo](https://django-argon-dash2-pro.onrender.com/) | 🛒 `Order`: **[$1999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
+| ✓ [LIVE Demo](https://django-argon-dash2.onrender.com/)  | 🚀 [LIVE Demo](https://django-argon-dash2-pro.onrender.com/) | 🛒 `Order`: **[$3999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |   
 
 ![Argon Dashboard 2 - Free Starter.](https://user-images.githubusercontent.com/51070104/215804889-94eba681-8262-41a3-8e57-7d5b12dcc209.png)
 
