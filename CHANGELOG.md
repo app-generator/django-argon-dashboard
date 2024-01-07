@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.11] 2024-01-07
+### Changes
+
+- Update LOCAL Template:
+  - added Dashboard Page
+
 ## [1.0.10] 2024-01-04
 ### Changes
 
