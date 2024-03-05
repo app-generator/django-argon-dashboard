@@ -26,7 +26,7 @@ The product is designed to deliver the best possible user experience with highly
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-argon-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-argon-dash2-pro.onrender.com/) | 🛒 `Order`: **[$4,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
+| ✓ [LIVE Demo](https://django-argon-dash2.onrender.com)  | 🚀 [LIVE Demo](https://django-argon-dash2-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
 
 ![Argon Dashboard 2 - Free Starter.](https://user-images.githubusercontent.com/51070104/215804889-94eba681-8262-41a3-8e57-7d5b12dcc209.png)
 
