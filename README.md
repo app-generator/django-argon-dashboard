@@ -166,6 +166,31 @@ In a similar way, all other files and components can be customized easily.
 
 <br />
 
+## Recompile SCSS  
+
+The SCSS/CSS files used to style the Ui are saved in the `static/assets` directory. 
+In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
+
+```bash
+$ yarn # install modules
+$ # # edit variables 
+$ vi static/assets/scss/argon-dashboard/custom/_variables.scss 
+$ gulp # SCSS to CSS translation
+```
+
+The `_variables.scss` content defines the `primary` and `secondary` colors: 
+
+```scss
+$primary:       #5e72e4 !default; // EDIT for customization
+$secondary:     #8392ab !default; // EDIT for customization
+$info:          #11cdef !default; // EDIT for customization
+$success:       #2dce89 !default; // EDIT for customization
+$warning:       #fb6340 !default; // EDIT for customization
+$danger:        #f5365c !default; // EDIT for customization
+```
+
+<br />
+
 ## Deploy on [Render](https://render.com/)
 
 - Create a Blueprint instance

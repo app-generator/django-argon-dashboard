@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.14] 2024-03-31
+### Changes
+
+- Added Local Statics 
+- Added Gulp for SCSS Compilation 
+
 ## [1.0.13] 2024-03-05
 ### Changes
 
