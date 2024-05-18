@@ -21,7 +21,7 @@ The product is designed to deliver the best possible user experience with highly
 | ✓ `Docker`                            | ✅ **[DataTables](https://django-argon-dash2-pro.onrender.com/tables/)** (Filters, Export)     | ✅ Technical SPECS                  |
 | ✓ `Free Support` (GitHub Issues)      |✅ **Celery**                                                                                   | ✅ Documentation                    |
 | -                                     | ✅ **Media Files Manager**                                                                     | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                                                  |  -                                   |
+| -                                     | ✅ **Extended User Profiles**                                                                  | ✅ [CI/CD for AWS, DO](https://appseed.us/terms/#section-ci-cd) **(Extra)**    |
 | -                                     | ✅ `Private REPO Access`                                                                       |  -                                   |
 | -                                     | ✅ **[Premium Support](https://appseed.us/support/)**                                          |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
