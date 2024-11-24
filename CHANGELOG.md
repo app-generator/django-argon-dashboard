@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.16] 2024-11-24
+### Changes
+
+- Update RM Links
+- 👉 [Django Argon Dashboard](https://app-generator.dev/docs/products/django/argon-dashboard/index.html) - **Complete Documentation**
+- 👉 [Django Argon Dashboard PRO](https://app-generator.dev/product/argon-dashboard-pro/django/) - The premium version
+
 ## [1.0.15] 2024-05-18
 ### Changes
 
