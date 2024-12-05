@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.18] 2024-12-05
+### Changes
+
+- Bump UI Version
+- Update Media (minor)
+
 ## [1.0.17] 2024-12-04
 ### Changes
 
