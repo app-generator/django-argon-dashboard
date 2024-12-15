@@ -35,11 +35,11 @@ The product is designed to deliver the best possible user experience with highly
 
 ## Features
 
-- Simple, Easy-to-Extend codebase
-- [Argon Dashboard](https://app-generator.dev/docs/templates/bootstrap/argon-dashboard.html) - Full Integration 
-- Bootstrap 4 Styling 
-- Session-based Authentication
-- DB Persistence: SQLite/MySql/PostgreSQL
+- Simple, Easy-to-Extend Codebase
+- Argon Dashboard Design - Full Integration 
+- Bootstrap 5 Styling 
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Docker 
 - CI/CD integration for Render 
 
