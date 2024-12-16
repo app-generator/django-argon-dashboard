@@ -9,7 +9,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-## Add Features with [Django App Generator](https://app-generator.dev/tools/django-generator/)
+### Customize with [Django App Generator - Argon Design](https://app-generator.dev/tools/django-generator/argon/)
 
 - Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
 - Select Argon Dashboard as the preferred design

@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.20] 2024-12-16
+### Changes
+
+- Preselect the design in the Generator:
+  - [Django App Generator - Argon Design](https://app-generator.dev/tools/django-generator/argon/)
+
 ## [1.0.19] 2024-12-15
 ### Changes
 
