@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.22] 2025-05-18
+### Changes
+
+- Code Refactoring
+- Added Dynamic Services
+
 ## [1.0.21] 2025-04-01
 ### Changes
 
