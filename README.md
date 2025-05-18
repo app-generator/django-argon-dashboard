@@ -61,8 +61,8 @@
 > The premium version provides more features, priority on support, and is more often updated - [Live Demo](https://django-argon-dash2-pro.onrender.com/automotive/).
 
 - Simple, Easy-to-Extend Codebase
-- [Black Dashboard](https://app-generator.dev/product/black-dashboard/) Design Integration
-- Bootstrap Styling 
+- [Argon Dashboard](https://app-generator.dev/product/argon-dashboard/) Design Integration
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
 - Extended Users Profiles
 - Authentication
