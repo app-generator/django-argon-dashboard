@@ -1,7 +1,6 @@
 # [Django Argon Dashboard](https://app-generator.dev/product/argon-dashboard/django/)
 
-Free starter built on top of **Bootstrap and Django** with database, authentication, and Docker support. The **Argon Dashboard** design is crafted by `Creative-Tim` using Bootstrap 5 Framework.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+**Open-source Django Starter** crafted on top of **[Argon Dashboard](https://app-generator.dev/product/argon-dashboard/)**, an open-source `Bootstrap` UI Kit released by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Argon Dashboard](https://app-generator.dev/product/argon-dashboard/django/) - `Product Page`
 - 👉 [Django Argon Dashboard](https://django-argon-dash2.onrender.com) - `LIVE Demo` 
