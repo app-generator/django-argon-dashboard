@@ -14,41 +14,6 @@
     <div class="collapse navbar-collapse  w-auto " id="sidenav-collapse-main">
       <ul class="navbar-nav">
 
-        {% admin_get_menu as app_list %}
-        {% if app_list %}
-            {% for app in app_list %}
-                {% if app.has_perms and not app.pinned %}
-                  <li class="nav-item">
-                      <a class="nav-link {% if app_label != app.label and app.url not in request.path|urlencode  %} active {% endif %}" data-bs-toggle="collapse" href="#{{ app.url }}" aria-controls="{{ app.url }}" role="button" aria-expanded="false">
-                        <div class="icon icon-shape icon-sm text-center d-flex align-items-center justify-content-center">
-                            <i class="ni ni-single-02 text-dark text-sm opacity-10"></i>
-                        </div>
-                        <span class="nav-link-text ms-1">{{ app.label|slice:10 }}{% if app.label|length > 10 %}..{% endif %}</span>
-                      </a>
-  
-                    {% if app.models %}
-                      <div class="collapse {% if 'tables-bootstrap-' in segment or app_label == app.label or app.url in request.path|urlencode %} show {% endif %}" id="{{ app.url }}">
-                        <ul class="nav ms-4">
-                          {% for model in app.models %}
-                            {% if model.url %}
-                              <li class="nav-item">
-                                <a class="nav-link {% if 'bootstrap-tables' in segment or model.url in request.path|urlencode %} active {% endif %}" href="{{ model.url }}">
-                                    <span class="sidenav-mini-icon"> {{ model.label|slice:":1" }} </span>
-                                    <span class="sidenav-normal"> {{ model.label }} </span>
-                                </a>
-                              </li>
-                            {% else %}
-                              <li class="nav-item">{{ model.label }}</li>
-                            {% endif %}
-                          {% endfor %}
-                        </ul>
-                      </div>
-                    {% endif %}
-                  </li>
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-
         <li class="nav-item">
           <a class="nav-link {% if segment == 'dashboard' %}active{% endif %}" href="{% url "index" %}">
             <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
